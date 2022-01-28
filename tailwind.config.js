@@ -1,7 +1,7 @@
 const { hsl } = require("color-convert");
 
 module.exports = {
-  content: ["./src/**/*.{html,js}","index.html"],
+  content: ["./src/**/*.{html,js}","public/index.html"],
   theme: {
     colors: {
       'pale-blue': '#e0e8ff',
